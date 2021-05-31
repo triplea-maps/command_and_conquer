@@ -1,0 +1,3 @@
+map_name: command_and_conquer
+games:
+- {game_name: command and conquer, file_name: command_and_conquer.xml}
